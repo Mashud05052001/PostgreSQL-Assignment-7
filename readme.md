@@ -184,7 +184,7 @@ An index in PostgreSQL is a database structure that improves the speed of data r
 4. **Unique Constraints**
 5. **Join Operations**
 
-## Types of Indexes
+### Types of Indexes
 
 1. **B-tree Index(Default)**
 2. **Hash Index**
@@ -209,7 +209,7 @@ A view in PostgreSQL is like a virtual table that displays data from one or more
 - **Improved security**
 - **Enhanced data abstraction**
 
-## How Views Differ from Regular Tables
+### How Views Differ from Regular Tables
 
 1. **Data Storage**: Views don’t store any data but Regular tables store data directly.
 
@@ -221,7 +221,7 @@ A view in PostgreSQL is like a virtual table that displays data from one or more
 
 5. **Security**: Views can limit access to specific columns or rows, making it easier to protect sensitive information. Regular tables have access controls applied to all data.
 
-## When to Use Views
+### When to Use Views
 
 1. **Simplifying Queries**
 2. **Protecting Data**
